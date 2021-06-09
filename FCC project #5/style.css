@@ -1,0 +1,17 @@
+.work-text {
+    text-align: center;
+    padding: 20px;
+    font-weight: 100;
+}
+.thumbnail-text {
+    text-align: center;
+    font-size: 1.2rem;
+}
+.card {
+    transition: 0.15s;
+}
+.card:hover {
+    color: white;
+    background-color: black;
+    transform: scale(1.02);
+}
